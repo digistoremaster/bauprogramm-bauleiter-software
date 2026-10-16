@@ -1,5 +1,6 @@
 # Bauprogramm: Digitales Management für Bauleiter
 
+
 ---
 
 ## Die Realität auf der Baustelle: Zwischen Zeitdruck, Nachunternehmern und Papierchaos
